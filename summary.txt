@@ -1,0 +1,7 @@
+Papers:
+
+1. Paper presented in the 2018 ICAS Congress at Belo Horizonte (text in english)
+"STRUCTURAL OPTIMIZATION AND PROPOSITION OF PRE-SIZING PARAMETERS FOR UAVS WING SPARS"
+
+2. Paper presented in the 2018 SAE Aerodesign Congress at São José dos Campos (text in portuguese)
+DETERMINAÇÃO DO DIAGRAMA VN PARA VANTS A PARTIR DE SIMULAÇÃO DE VOO COM 6 GRAUS DE LIBERDADE
