@@ -4,4 +4,8 @@ Papers:
 "STRUCTURAL OPTIMIZATION AND PROPOSITION OF PRE-SIZING PARAMETERS FOR UAVS WING SPARS"
 
 2. Paper presented in the 2018 SAE Aerodesign Congress at São José dos Campos (text in portuguese)
-DETERMINAÇÃO DO DIAGRAMA VN PARA VANTS A PARTIR DE SIMULAÇÃO DE VOO COM 6 GRAUS DE LIBERDADE
+"DETERMINAÇÃO DO DIAGRAMA VN PARA VANTS A PARTIR DE SIMULAÇÃO DE VOO COM 6 GRAUS DE LIBERDADE"
+
+3. End Of Course Project presented to the Aerospace Engineering Undergraduation Program of the Federal
+University of Minas Gerais, as a partial requirement for obtaining the title of Bachelor in Aerospace Engineering (text in english)
+"OPTIMIZATION AND COMPARISON OF TURBOPROP AND TURBOFAN AIRCRAFT"
